@@ -34,7 +34,7 @@ public class Homework {
         System.out.println("Ділення чисел типу double"+p);
 
         long t=r*s;
-        System.out.println("Множення чисел типу byte "+t);
+        System.out.println("Множення чисел типу long "+t);
 
     }
 }
